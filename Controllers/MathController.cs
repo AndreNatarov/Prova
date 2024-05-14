@@ -241,7 +241,7 @@ namespace AS2223_4G_INF_NatarovMauriAndre_API.Controllers
                 return Json(new
                 {
                     message = "Errore!",
-                    status = "KO"
+                    status = "KO" //ERRORE GRAVE!
                 });
             }
         }
